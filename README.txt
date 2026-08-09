@@ -6,7 +6,8 @@ FILES
 - programs.html: Our Programs
 - contact.html: Contact
 - styles.css: Shared design and responsive layout
-- script.js: Mobile navigation, active-page indicator and footer year
+- script.js: Mobile navigation and active-page indicator
+- assets/: Original AI-generated fitness images used in the design
 
 QUICK USE
 1. Keep every file together in the same folder.
@@ -17,5 +18,4 @@ QUICK USE
 
 IMPORTANT
 - Confirm all business details with F2L before submission.
-- Use only photographs you own or have permission to use.
-- Do not remove the student-project disclaimer.
+- The included fitness images are AI-generated and do not depict the real F2L gym or members.

@@ -12,7 +12,3 @@ const currentPage = window.location.pathname.split('/').pop() || 'index.html';
 document.querySelectorAll('.nav-list a').forEach((link) => {
   if (link.getAttribute('href') === currentPage) link.setAttribute('aria-current', 'page');
 });
-
-document.querySelectorAll('[data-year]').forEach((item) => {
-  item.textContent = new Date().getFullYear();
-});
